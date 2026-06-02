@@ -10,4 +10,4 @@ GitHub issues or pull requests for security reports.
 
 What the project treats as in scope and out of scope, the security
 properties it provides and disclaims, the adversary model, and how
-findings are triaged are documented in https://github.com/apache/dolphinscheduler/blob/dev/docs/docs/en/contribute/join/security-model.md.
+findings are triaged are documented in <https://github.com/apache/dolphinscheduler/blob/dev/docs/docs/en/contribute/join/security-model.md>.
